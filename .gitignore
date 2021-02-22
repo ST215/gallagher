@@ -638,3 +638,5 @@ venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg
 venv/lib/python3.7/site-packages/setuptools.pth
 
 venv/pyvenv.cfg
+
+__pycache__/solution.cpython-37.pyc
